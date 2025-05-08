@@ -12,3 +12,12 @@ div{
     border:15px solid #e50b0b;
     
 }
+h2{
+    color: #e50b0b;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    text-align: center;
+    box-shadow: #823131 0px 0px 10px;
+}
